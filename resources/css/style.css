@@ -3,24 +3,24 @@ body {
   background-color: black;
   color: white;
   text-align: center;
-
 }
+
 h1 {
   font-weight: normal;
   font-size: 50px;
-
 }
+
 h3 {
   font-size: 21px;
   color: Gray;
+}
 
-}
 .link {
- color: Aquamarine;
- font-size: 16px;
+  color: Aquamarine;
+  font-size: 16px;
 }
+
 .copy {
   text-align: right;
   color: Gray;
-
 }
